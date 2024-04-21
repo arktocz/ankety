@@ -1,0 +1,566 @@
+{
+    "surveyPage": [
+      {
+        "id": "ec77dbdb-95c0-4241-b545-017d7e5ce29a",
+        "name": "sentence()",
+        "questions": [
+          {
+            "id": "752c35f9-baef-42f8-bdfa-71132ed8e8e0",
+            "name": "Otazka 1",
+            "order": "increment(1)",
+            "type": {
+              "id": "6bedb4ac-b008-4509-a43d-2222af70a8cb",
+              "name": "Škála"
+            },
+            "answers": [
+                {
+              "id": "018e7366-8aad-47e8-bc59-7be98fb1519a",
+              "value": "3",
+              "answered": "True",
+              "user": {
+                "id": "d160e959-cfeb-4c67-8751-14ae91bf9eea",
+                "email": "Maritza38@hotmail.com"
+              }
+            },
+            {
+              "id": "018e7366-8aad-47e8-bc59-7be98fb1519a",
+              "value": "3",
+              "answered": "True",
+              "user": {
+                "id": "d160e959-cfeb-4c67-8751-14ae91bf9eea",
+                "email": "Maritza38@hotmail.com"
+              }
+            },
+            {
+              "id": "b3516e01-ceee-47eb-9d3f-5e895a687b42",
+              "value": "8",
+              "answered": "True",
+              "user": {
+                "id": "b052a88e-73ef-42b8-8cbb-6c3ffe9d4ecb",
+                "email": "Maximilian_OConnell34@hotmail.com"
+              }
+            },
+            {
+              "id": "f5a32625-215a-4964-b299-97c09f90d66c",
+              "value": "6",
+              "answered": "True",
+              "user": {
+                "id": "d0572282-4104-4d81-907c-fe7394dfd9e9",
+                "email": "Darrell96@yahoo.com"
+              }
+            },
+            {
+              "id": "b3516e01-ceee-47eb-9d3f-5e895a687b42",
+              "value": "8",
+              "answered": "True",
+              "user": {
+                "id": "b052a88e-73ef-42b8-8cbb-6c3ffe9d4ecb",
+                "email": "Maximilian_OConnell34@hotmail.com"
+              }
+            },
+            {
+              "id": "f5a32625-215a-4964-b299-97c09f90d66c",
+              "value": "6",
+              "answered": "True",
+              "user": {
+                "id": "d0572282-4104-4d81-907c-fe7394dfd9e9",
+                "email": "Darrell96@yahoo.com"
+              }
+            },
+              {
+                "id": "410ccc06-2fb1-46b4-834a-5786a9b6418b",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "bfce2efa-c31f-4603-9b3a-93cc2e7838ec",
+                  "email": "Pete.Schulist57@gmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e77a3978-37b4-4299-a946-c2ba44ce4500",
+            "name": "Otazka 2",
+            "order": "increment(1)",
+            "type": {
+              "id": "067d7cb6-12e9-4165-8660-2f316bdc37ba",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "f4169a7f-40c2-48be-b66f-cc07b33ea9a4",
+                "value": "2",
+                "answered": "True",
+                "user": {
+                  "id": "29f52b1f-c07a-4e58-926b-2585843dff3d",
+                  "email": "Mitchel_Pacocha29@gmail.com"
+                }
+              },
+              {
+                "id": "018e7366-8aad-47e8-bc59-7be98fb1519a",
+                "value": "3",
+                "answered": "True",
+                "user": {
+                  "id": "d160e959-cfeb-4c67-8751-14ae91bf9eea",
+                  "email": "Maritza38@hotmail.com"
+                }
+              },
+              {
+                "id": "b3516e01-ceee-47eb-9d3f-5e895a687b42",
+                "value": "8",
+                "answered": "True",
+                "user": {
+                  "id": "b052a88e-73ef-42b8-8cbb-6c3ffe9d4ecb",
+                  "email": "Maximilian_OConnell34@hotmail.com"
+                }
+              },
+              {
+                "id": "f5a32625-215a-4964-b299-97c09f90d66c",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "d0572282-4104-4d81-907c-fe7394dfd9e9",
+                  "email": "Darrell96@yahoo.com"
+                }
+              },
+              {
+                "id": "8af3db99-fbaa-40f1-a3e8-401440e8bfab",
+                "value": "4",
+                "answered": "True",
+                "user": {
+                  "id": "1f602c83-912d-49e3-b640-975c3ffb78b5",
+                  "email": "Alva96@hotmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "e12eb815-de7a-4ee8-b733-e3749f8d16d6",
+            "name": "Otazka 3",
+            "order": "increment(1)",
+            "type": {
+              "id": "6f293908-b0d4-4142-9950-4af8b41febdf",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "22b67a03-b973-47c0-b1f7-3fdf221bdd12",
+                "value": "1",
+                "answered": "True",
+                "user": {
+                  "id": "0c44db24-63b8-4fc8-8bca-a4e8ae5dc6d4",
+                  "email": "Nella_Satterfield68@gmail.com"
+                }
+              },
+              {
+                "id": "21ceeb3e-d724-4c99-b4e1-c20670ebd3c5",
+                "value": "3",
+                "answered": "True",
+                "user": {
+                  "id": "fe4b8ac7-a555-4f00-bf18-f9e39cc15e97",
+                  "email": "Jeanie21@hotmail.com"
+                }
+              },
+              {
+                "id": "018e7366-8aad-47e8-bc59-7be98fb1519a",
+                "value": "3",
+                "answered": "True",
+                "user": {
+                  "id": "d160e959-cfeb-4c67-8751-14ae91bf9eea",
+                  "email": "Maritza38@hotmail.com"
+                }
+              },
+              {
+                "id": "b3516e01-ceee-47eb-9d3f-5e895a687b42",
+                "value": "8",
+                "answered": "True",
+                "user": {
+                  "id": "b052a88e-73ef-42b8-8cbb-6c3ffe9d4ecb",
+                  "email": "Maximilian_OConnell34@hotmail.com"
+                }
+              },
+              {
+                "id": "f5a32625-215a-4964-b299-97c09f90d66c",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "d0572282-4104-4d81-907c-fe7394dfd9e9",
+                  "email": "Darrell96@yahoo.com"
+                }
+              },
+              {
+                "id": "f97edfeb-219b-4889-973c-26358bc87b0c",
+                "value": "3",
+                "answered": "True",
+                "user": {
+                  "id": "cdf35503-cbd4-4fca-a02b-b6563616485e",
+                  "email": "Trevor.Mante@hotmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "fadae2a7-790a-40fb-a773-05665dc7ab57",
+            "name": "Otazka 4",
+            "order": "increment(1)",
+            "type": {
+              "id": "0edc32a3-9dab-4dfd-bd0c-1622052723ea",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "33f36993-8f06-436a-9c5a-c17879260479",
+                "value": "2",
+                "answered": "True",
+                "user": {
+                  "id": "39669109-e09f-4f0c-a6c6-e928b64d2997",
+                  "email": "Manuela_Kohler87@yahoo.com"
+                }
+              },
+              {
+                "id": "fbd44a53-df94-41ce-8dcf-9a0d4acd1f6b",
+                "value": "9",
+                "answered": "True",
+                "user": {
+                  "id": "4a6df3cc-2323-4fc8-a64b-09bcae133719",
+                  "email": "Pete_Hauck@yahoo.com"
+                }
+              },
+              {
+                "id": "1c581b12-f562-4205-b143-c48a50428050",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "ed5cddaf-d63f-4510-ba32-c685794305d3",
+                  "email": "Collin_McLaughlin61@gmail.com"
+                }
+              },
+              {
+                "id": "a2ee71b3-b382-4113-8d64-2d613500ec53",
+                "value": "4",
+                "answered": "True",
+                "user": {
+                  "id": "70cfbca3-5269-4c1f-8d7d-a277a380ca8a",
+                  "email": "Elwin.Nitzsche-Borer@yahoo.com"
+                }
+              },
+              {
+                "id": "2decbd89-16ba-432e-a3b0-312afc83e979",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "ab9b4408-d3bf-4c9a-bfae-ab9d96a9cfe7",
+                  "email": "Delbert19@gmail.com"
+                }
+              },
+              {
+                "id": "4e1a0d53-d040-445f-9f62-25dc13ec48bc",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "ec29c84a-02aa-4963-bbe7-3692b4947056",
+                  "email": "Juana_Glover-Mayer17@yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2779dd1f-21e7-478e-a32f-534561fe234f",
+            "name": "Otazka 5",
+            "order": "increment(1)",
+            "type": {
+              "id": "130d5243-acb0-4837-8316-493ccab677b8",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "0e6ccf50-25b3-434e-91a1-3d46a70de53e",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "4f49aefb-f9a0-490c-ab90-7cee6e2bac17",
+                  "email": "Kelsi_Hilpert@yahoo.com"
+                }
+              },
+              {
+                "id": "a165a5e8-f6f7-4b94-b604-e1d448d96e17",
+                "value": "5",
+                "answered": "True",
+                "user": {
+                  "id": "af70c1cb-b8ab-47e4-a453-5d5932bf2be1",
+                  "email": "Fletcher_Daniel@hotmail.com"
+                }
+              },
+              {
+                "id": "4b438184-8805-4aa4-8cba-c4fa690ae73b",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "a68abed8-9509-43c2-ad43-fe0d5f23b279",
+                  "email": "Cayla_Ankunding18@hotmail.com"
+                }
+              },
+              {
+                "id": "510b7c2f-ded3-4201-9a4b-730fb76332e4",
+                "value": "1",
+                "answered": "True",
+                "user": {
+                  "id": "4016bbaa-0ac0-4241-b3d1-679f1b04e6e9",
+                  "email": "Kiana66@yahoo.com"
+                }
+              },
+              {
+                "id": "07cd5fee-4261-4770-9a72-750e85a79d39",
+                "value": "4",
+                "answered": "True",
+                "user": {
+                  "id": "0c0742d9-c5a6-45bc-af33-6d4cdc991ab4",
+                  "email": "Lenora62@yahoo.com"
+                }
+              },
+              {
+                "id": "59f570dd-0069-4750-b97d-1f01832d6021",
+                "value": "9",
+                "answered": "True",
+                "user": {
+                  "id": "f9351357-cbdd-4f10-95d9-5a5db8a5d3cc",
+                  "email": "Randy41@hotmail.com"
+                }
+              },
+              {
+                "id": "36b469af-85df-4d88-9bd6-b62d5ab12bbb",
+                "value": "8",
+                "answered": "True",
+                "user": {
+                  "id": "9417fab5-0df6-45d6-a6bb-68b96e96bfed",
+                  "email": "Jennyfer84@gmail.com"
+                }
+              },
+              {
+                "id": "b24fac4e-7420-4c99-96f6-dc58d860ff9a",
+                "value": "9",
+                "answered": "True",
+                "user": {
+                  "id": "6f091df1-c632-44a7-912b-49ca5bbfcfcd",
+                  "email": "Jacques_Barton-Sporer@yahoo.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1dbb5bb8-6036-46a8-9577-83ad79ab6fc3",
+            "name": "Otazka 6",
+            "order": "increment(1)",
+            "type": {
+              "id": "4732f1c7-2e0c-4287-bc04-53e57eef5039",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "1366237b-e200-4624-9d1f-ba3ce0bc5817",
+                "value": "9",
+                "answered": "True",
+                "user": {
+                  "id": "0b443863-c7e6-4bd0-99fd-faef6b2e79be",
+                  "email": "Lucile.Gibson@hotmail.com"
+                }
+              },
+              {
+                "id": "239a598d-e112-4060-beba-03d9346f00f9",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "c8494e1f-ccbd-44d6-987c-64c4bb961244",
+                  "email": "Clarissa8@yahoo.com"
+                }
+              },
+              {
+                "id": "5e2b591a-0647-4f0e-9a42-7560078b7581",
+                "value": "3",
+                "answered": "True",
+                "user": {
+                  "id": "fbf0ef1a-f60e-4995-a70b-17005dc5412d",
+                  "email": "Berneice_Stokes75@hotmail.com"
+                }
+              },
+              {
+                "id": "f8a332a6-3224-4c45-8614-1896cc436a05",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "c6316a7f-9462-438d-bd10-d1d0ae17a14e",
+                  "email": "Clarissa_Erdman94@hotmail.com"
+                }
+              },
+              {
+                "id": "1b457ed8-14fb-466c-9ce1-ba1c8584bea9",
+                "value": "2",
+                "answered": "True",
+                "user": {
+                  "id": "d026935a-263f-4fd5-a354-fa0baea13fea",
+                  "email": "Duane_Erdman@gmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3cb8fda9-48c1-4455-95d8-56a4422c5bc1",
+            "name": "Otazka 8",
+            "order": "increment(1)",
+            "type": {
+              "id": "47aca093-d1f0-4665-9de9-491a6719b444",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "659419f6-6491-42b9-84df-63063eb3f39e",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "7943bf93-a7f1-49b7-b45d-02515fc54078",
+                  "email": "Forest58@gmail.com"
+                }
+              },
+              {
+                "id": "8b74f7b0-b0b5-4fd8-96e2-25e2836c8fad",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "c73ca3b4-e5ba-4cd8-b22a-8aae7938b072",
+                  "email": "Martin.Ernser@gmail.com"
+                }
+              },
+              {
+                "id": "90faf2dd-afad-4cf2-b29b-f2480fe4fb32",
+                "value": "8",
+                "answered": "True",
+                "user": {
+                  "id": "4aa8e9bd-21a5-4462-b395-da90b424b2e7",
+                  "email": "Trevor.Nolan@gmail.com"
+                }
+              },
+              {
+                "id": "e80eb63d-a3a0-4309-be7e-255f24ff88d7",
+                "value": "2",
+                "answered": "True",
+                "user": {
+                  "id": "27f672eb-6793-4d0c-9cbf-abacdcde9223",
+                  "email": "Harry_Hessel@hotmail.com"
+                }
+              },
+              {
+                "id": "00088e42-3a89-4604-9565-7d764700c11f",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "e7b2a89d-9f2a-45a4-9a63-6fce2c860d25",
+                  "email": "Mary94@gmail.com"
+                }
+              },
+              {
+                "id": "e120372d-2371-4de7-a810-49f4a411a12f",
+                "value": "1",
+                "answered": "True",
+                "user": {
+                  "id": "828430ef-a69b-4900-99fe-20ec39898b81",
+                  "email": "Gail_Cartwright86@hotmail.com"
+                }
+              },
+              {
+                "id": "799b4644-591d-490d-b128-8540e5e657d7",
+                "value": "3",
+                "answered": "True",
+                "user": {
+                  "id": "222cda47-70dc-4de6-b85d-b956deccec6b",
+                  "email": "Carley_Barton@yahoo.com"
+                }
+              },
+              {
+                "id": "3d5ee105-d789-49fa-ae97-6b57d70a810c",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "4124da4a-93e4-4281-8085-abf1b478b4c2",
+                  "email": "Brando.Heaney65@hotmail.com"
+                }
+              },
+              {
+                "id": "6e9f0572-c00b-4478-94f0-48ebf2f71f23",
+                "value": "1",
+                "answered": "True",
+                "user": {
+                  "id": "73d35f9a-5854-46d9-8077-4a203893a2d8",
+                  "email": "Amina73@hotmail.com"
+                }
+              }
+            ]
+          },
+          {
+            "id": "46859aab-dc95-4b44-a03d-9e863d63efee",
+            "name": "Otazka 9",
+            "order": "increment(1)",
+            "type": {
+              "id": "e8437153-e894-4023-bb6a-cd81d8ce0192",
+              "name": "Škála"
+            },
+            "answers": [
+              {
+                "id": "85673895-56dc-4379-b6a2-849eafc8ca54",
+                "value": "2",
+                "answered": "True",
+                "user": {
+                  "id": "d9f8fcc2-acce-4011-bfbb-8804f01ad678",
+                  "email": "Jaylan_Hickle49@gmail.com"
+                }
+              },
+              {
+                "id": "2a1aa2eb-236b-4ba8-8e35-133f599c241f",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "23a882ee-55a5-4c65-a306-17f6dcfeb222",
+                  "email": "Myrtle77@hotmail.com"
+                }
+              },
+              {
+                "id": "33b1599c-92f5-440a-9728-8cb1ed051908",
+                "value": "4",
+                "answered": "True",
+                "user": {
+                  "id": "fc77679b-3767-4601-a0e4-3dd46f829f70",
+                  "email": "Aurelie.Effertz55@gmail.com"
+                }
+              },
+              {
+                "id": "ddb3c7c0-285e-4316-9072-e02ced95c251",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "b06f1517-87ec-4fa0-8939-e6e2fc5c4b2a",
+                  "email": "Gaston_Schneider7@gmail.com"
+                }
+              },
+              {
+                "id": "5b76afae-682e-4905-a19f-0f4027f47e87",
+                "value": "7",
+                "answered": "True",
+                "user": {
+                  "id": "4fa2f232-aa38-4fb6-b850-41a59b800396",
+                  "email": "Maximilian_Konopelski@yahoo.com"
+                }
+              },
+              {
+                "id": "57ea44cd-2e5a-426e-aad5-2548a454bddb",
+                "value": "6",
+                "answered": "True",
+                "user": {
+                  "id": "383895d4-daa6-4a42-8eff-2159364cceb2",
+                  "email": "Laney_Klocko@hotmail.com"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
