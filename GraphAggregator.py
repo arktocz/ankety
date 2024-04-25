@@ -48,7 +48,7 @@ async def load_json_data(file_path):
     """
     try:
         # Use aiofiles to open the file asynchronously
-        async with aiofiles.open(file_path, 'r') as file:
+        async with aiofiles.open(file_path, 'r', encoding='utf-8') as file:
             data = await file.read()  # Read data asynchronously
             return json.loads(data)  # Deserialize JSON to a Python object
     except FileNotFoundError:
