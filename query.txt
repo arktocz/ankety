@@ -1,0 +1,22 @@
+surveyPage{
+    id
+    name
+    questions{
+        id
+        name
+        order
+        type{
+            id
+            name
+        }
+        answers{
+            id
+            value
+            answered
+            user{
+                id
+                email
+            }
+        }
+    }
+    }
