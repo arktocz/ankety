@@ -1,0 +1,12 @@
+Vývoj začal sestavením docker prostředí, tedy stáhnutí docker-compose
+Po sestavení jsme narazili na problém s během kontejnerů, kdy se náhodně po chvilce vypnou (řešení: zapínat je, až si to rozmyslí)
+Chvilku nám trvalo se v protředí zorientovat a najít query (ve frontendu)
+Následně nám byl prakticky na hodině vytvořen query dotaz, který jsme jen upravili pro naše potřeby.
+Následuje problémové zjištění-náš kontejner prakticky nemá data (řešení: vytvoření umělých->fake_data.json)
+Ve VSCODE vytváříme moduly pro zpracování dat z jsonu (v logice query dotazu)
+Následně data přetváříme do datové struktury vhodné k prácí s grafy.
+Pomocí chatGPT si generujeme funkce na všechny požadované grafy (jsou funkční, pecka).
+Nyní pomocí zdrojáku z mailu vytváříme vlastní pipe v jupyteru (jupyter lab nemáme v dockeru ale přes vscode)
+Hlavní úprava je query dotaz a mappers
+Z důvodu neexistence dat ověřujeme koncept a dále pracujeme ve stejném bodě ale v navazujícícm projektu (data_work.ipynb)
+Navazijí na sebe ve fázi proměné data, která je vstupním argumentem pro všechny grafové funkce
